@@ -165,7 +165,7 @@ Muon2MatchingDeltaR 0.4
 
 RemoveOverlapWithElectron1s 1
 RemoveOverlapWithElectron2s 1
-lectron1MatchingDeltaR 0.4
+Electron1MatchingDeltaR 0.4
 Electron2MatchingDeltaR 0.4
 
 RemoveOverlapWithTau1s 1
